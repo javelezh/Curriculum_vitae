@@ -1,0 +1,274 @@
+---
+title: "Jonatan Velez Higuita"
+author: "Jonatan Velez Higuita"
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![](jonatan.png){width=80%}
+
+
+Contacto {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-phone"></i> 314 637 4568
+- <i class="fa fa-envelope"></i> javelezhi@unal.edu.co
+- <i class="fa fa-github"></i> [github.com/javelezh](https://github.com/javelezh)
+- <i class="fab fa-linkedin-in"></i> [Linkedin](https://www.linkedin.com/in/javelezh/)
+
+
+Habilidades {#skills}
+--------------------------------------------------------------------------------
+
+- Habilidades en el manejo de lenguaje de programación R.
+
+- Habilidades básicas en el lenguaje de programación python.
+
+- Realización de reportes y documentos HTML.
+
+
+Main
+================================================================================
+
+Jonatan Velez Higuita {#title}
+--------------------------------------------------------------------------------
+
+### Zootecnista
+
+<div style="text-align: justify">
+Zootecnista, egresado de la Universidad nacional, sede Medellín. Con 6 meses de experiencia en asistencia técnica en Buenas Practicas Ganaderas. Desde hace mas de año y medio he venido trabajando y desarrollando habilidades en el lenguaje de programación R en los temas de estadística descriptiva, depuración, visualización y análisis exploratorio de datos. 
+</div>
+
+
+Educación {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Universidad Nacional de Colombia
+
+Zootecnia
+
+Medellín, Colombia
+
+2009 - 2019
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Educación Complementaria {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### SENA
+
+Análisis Exploratorio de Datos en Python
+
+*Online*
+
+2022
+
+### Platzi
+
+Curso Básico de Python
+
+*Online*
+
+2022
+
+### SENA
+
+Variables y Estructuras de Control en Python
+
+*Online*
+
+2022
+
+### SENA
+
+Analitica de Datos Para Procesos Logisticos
+
+*Online*
+
+2022
+
+### Coursera
+
+Introducción a la Minería de Datos
+
+*Online*
+
+2021
+
+### Coursera
+
+Introduction to Machine Learning
+
+*Online*
+
+2021
+
+### SENA
+
+Establecimiento de Cultivos Piscícolas Continentales en Aguas Cálidas
+
+*Online*
+
+2021
+
+### SENA
+
+Prácticas de Manejo en la Producción de Pollos de Engorde
+
+*Online*
+
+2020
+
+### Coursera
+
+R programming
+
+*Online*
+
+2020
+
+### Coursera
+
+The Data Scientist’s Toolbox
+
+*Online*
+
+2020
+
+### Coursera
+
+Exploratory Data Analysis
+
+*Online*
+
+2020
+
+### Coursera
+
+Introducción a Data Science: Programación Estadística con R
+
+*Online*
+
+2020
+
+### SENA
+
+Manejo de Herramientas Microsoft Office 2016: Excel
+
+*Online*
+
+2020
+
+### SENA
+
+Ganadería Sustentable
+
+*Online*
+
+2020
+
+### SENA
+
+Uso de Excel y Access Para El Desarrollo de Aplicaciones Administrativas Empresariales
+
+*Online*
+
+2020
+
+### ICA
+
+Curso Virtual de Implementadores de Buenas Prácticas Ganaderas En La Producción de
+Ovinos y Caprinos
+
+*Online*
+
+2020
+
+### ICA
+
+Curso Virtual de Implementadores de Buenas Prácticas Ganaderas En La Producción
+Porcícola
+
+*Online*
+
+2020
+
+### ICA
+
+Curso Virtual de Implementadores de Buenas Prácticas Ganaderas En La Producción de
+Équidos
+
+*Online*
+
+2020
+
+### SENA
+
+Nutrición en Ganado Bovino
+
+*Online*
+
+2020
+
+### SENA
+
+Ganadería Intensiva de Doble Propósito
+
+*Online*
+
+2017
+
+Experiencia profesional {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Asistente técnico
+
+Cooperativa Colanta
+
+Medellín, Colombia
+
+2018 - 2019
+
+::: concise
+- Pre auditorias en BPG en predios productores de leche
+:::
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
